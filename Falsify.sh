@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Created by: Informatic in Termux
+# Created by: t3_du3rm0_tu_wifi
 #
 # Falsify
 #
